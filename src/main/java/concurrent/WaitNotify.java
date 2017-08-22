@@ -5,6 +5,7 @@ import java.util.Date;
 
 /**
  * Created by ShannonAJ on 2017/8/7.
+ * 等待通知机制
  */
 public class WaitNotify {
     static boolean flag = true;
